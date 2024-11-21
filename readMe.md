@@ -1,6 +1,3 @@
-By: Matthew Gillett - matthew.gillett@uleth.ca
-Id: 001230643
-
 Capital Asset Pricing Model Stock Expected Return:
 
 Structure:
